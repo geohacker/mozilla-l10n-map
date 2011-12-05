@@ -1,0 +1,635 @@
+ { "type" : "Feature Collection",
+    {"features" : [
+         { "type" : "Feature",
+        "id" : ZA,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["22.937506","-30.559482"]},
+        "properties" : { "name" : "Afrikaans (af)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:af<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/af"}
+        },
+         { "type" : "Feature",
+        "id" : GH,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-1.023194","7.946527"]},
+        "properties" : { "name" : "Akan (ak)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ak<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ak<br>"}
+        },
+         { "type" : "Feature",
+        "id" : AL,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["20.168331","41.153332"]},
+        "properties" : { "name" : "Albanian(sq)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:sq<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/sq<br><br>"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["46.0546875","24.198873245219474"]},
+        "properties" : { "name" : "Arabic (ar)", "value" : "<br>"}
+        },
+         { "type" : "Feature",
+        "id" : AM,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["45.038189","40.069099"]},
+        "properties" : { "name" : "Armenian (hy-AM)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:hy-AM<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/hy-AM<br>"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["92.9375739","26.2006043"]},
+        "properties" : { "name" : "Assamese (as)", "value" : "<br>"}
+        },
+         { "type" : "Feature",
+        "id" : ES,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-5.9832577","43.2504393"]},
+        "properties" : { "name" : "Asturian (ast)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ast<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ast<br>"}
+        },
+         { "type" : "Feature",
+        "id" : ES,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-2.6189273","42.9896248"]},
+        "properties" : { "name" : "Basque (eu)", "value" : "<a href="javascript:void(0);/*1322718528217*/">L10n Team page</a><br><br>https://wiki.mozilla.org/L10n:Teams:eu<a href="javascript:void(0);/*1322718559839*/"><br><br><br>Dashboard</a><br>"}
+        },
+         { "type" : "Feature",
+        "id" : BY,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["27.953389","53.709807"]},
+        "properties" : { "name" : "Belarusian (be)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:be<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/be<br><br>"}
+        },
+         { "type" : "Feature",
+        "id" : BD,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["90.407143","23.709921"]},
+        "properties" : { "name" : "Bengali (bn-BD)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:bn-BD<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/bn-BD<br>"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["87.8549755","22.9867569"]},
+        "properties" : { "name" : "Bengali (bn-IN)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:bn-IN<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/bn-IN<br>"}
+        },
+         { "type" : "Feature",
+        "id" : BA,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["17.679076","43.915886"]},
+        "properties" : { "name" : "Bosnian (bs)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:bs<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/bs"}
+        },
+         { "type" : "Feature",
+        "id" : FR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-2.9326435","48.2020471"]},
+        "properties" : { "name" : "Breton (br)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:br<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/br"}
+        },
+         { "type" : "Feature",
+        "id" : BG,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["25.48583","42.733883"]},
+        "properties" : { "name" : "Bulgarian (bg)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:bg<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/bg<br>"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["95.956223","21.913965"]},
+        "properties" : { "name" : "Burmese (my-MM)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:my-MM"}
+        },
+         { "type" : "Feature",
+        "id" : AD,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["1.601554","42.546245"]},
+        "properties" : { "name" : "Catalan (ca)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ca<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ca<br>"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["104.501953125","35.88905007936091"]},
+        "properties" : { "name" : "Chinese Simplified (zh-CN)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:zh-CN<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/zh-CN"}
+        },
+         { "type" : "Feature",
+        "id" : TW,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["120.960515","23.69781"]},
+        "properties" : { "name" : "Chinese Traditional (zh-TW)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ca<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ca"}
+        },
+         { "type" : "Feature",
+        "id" : HR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["15.2","45.1"]},
+        "properties" : { "name" : "Croatian (hr)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:hr<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/hr"}
+        },
+         { "type" : "Feature",
+        "id" : CZ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["15.472962","49.817492"]},
+        "properties" : { "name" : "Czech (cs)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:cs<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/cs"}
+        },
+         { "type" : "Feature",
+        "id" : DK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["9.501785","56.26392"]},
+        "properties" : { "name" : "Danish (da)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:da<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/da"}
+        },
+         { "type" : "Feature",
+        "id" : NL,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["5.291266","52.132633"]},
+        "properties" : { "name" : "Dutch (nl)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:nl<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/nl"}
+        },
+         { "type" : "Feature",
+        "id" : GB,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-3.435973","55.378051"]},
+        "properties" : { "name" : "English (en-GB)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:en-GB<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/en-GB"}
+        },
+         { "type" : "Feature",
+        "id" : US,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-95.712891","37.09024"]},
+        "properties" : { "name" : "English (en-US)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:en-US<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/en-US"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["6.416015625","47.683141741710074"]},
+        "properties" : { "name" : "Esperanto (eo)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:eo<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/eo"}
+        },
+         { "type" : "Feature",
+        "id" : EE,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["25.013607","58.595272"]},
+        "properties" : { "name" : "Estonian (et)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:et<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/et"}
+        },
+         { "type" : "Feature",
+        "id" : FI,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["25.748151","61.92411"]},
+        "properties" : { "name" : "Finnish (fi)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:fi<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/fi"}
+        },
+         { "type" : "Feature",
+        "id" : FR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["2.3522219","48.856614"]},
+        "properties" : { "name" : "French (fr)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:fr<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/fr"}
+        },
+         { "type" : "Feature",
+        "id" : NL,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["5.7817542","53.1641642"]},
+        "properties" : { "name" : "Frisian (fy-NL)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:fy-NL<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/fy-NL"}
+        },
+         { "type" : "Feature",
+        "id" : GB,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-4.2026458","56.4906712"]},
+        "properties" : { "name" : "Gaelic Scotland (gd)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:gd<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/gd"}
+        },
+         { "type" : "Feature",
+        "id" : ES,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-8.1338558","42.5750554"]},
+        "properties" : { "name" : "Galician (gl)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:gl<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/gl"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["44.792998","41.709981"]},
+        "properties" : { "name" : "Georgian (ka)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ka<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ka"}
+        },
+         { "type" : "Feature",
+        "id" : DE,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["7.0963113","50.7327045"]},
+        "properties" : { "name" : "German (de)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:de<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/de"}
+        },
+         { "type" : "Feature",
+        "id" : GR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["21.824312","39.074208"]},
+        "properties" : { "name" : "Greek (el)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:el<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/el"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["71.1923805","22.258652"]},
+        "properties" : { "name" : "Gujarathi (gu-IN)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:gu-IN<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/gu-IN"}
+        },
+         { "type" : "Feature",
+        "id" : IL,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["34.851612","31.046051"]},
+        "properties" : { "name" : "Hebrew (he)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:he<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/he"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["77.22496","28.635308"]},
+        "properties" : { "name" : "Hindi (hi-IN)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:hi-IN<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/hi-IN"}
+        },
+         { "type" : "Feature",
+        "id" : HU,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["19.503304","47.162494"]},
+        "properties" : { "name" : "Hungurain (hu)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:hu<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/hu"}
+        },
+         { "type" : "Feature",
+        "id" : IS,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-19.020835","64.963051"]},
+        "properties" : { "name" : "Icelandic (is)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:is<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/is"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["106.845172","-6.211544"]},
+        "properties" : { "name" : "Indonesia (id)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:id<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/id"}
+        },
+         { "type" : "Feature",
+        "id" : IE,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["6.591796875","45.583289756006316"]},
+        "properties" : { "name" : "Irish (ga-IE)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ga-IE<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ga-IE"}
+        },
+         { "type" : "Feature",
+        "id" : IT,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["12.56738","41.87194"]},
+        "properties" : { "name" : "Italian (it)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:it<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/it"}
+        },
+         { "type" : "Feature",
+        "id" : JP,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["138.252924","36.204824"]},
+        "properties" : { "name" : "Japanese (jp)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:jp<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/jp"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["77.5945627","12.9715987"]},
+        "properties" : { "name" : "Kananda (kn)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:kn<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/kn"}
+        },
+         { "type" : "Feature",
+        "id" : KZ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["66.923684","48.019573"]},
+        "properties" : { "name" : "Kazakh (kk)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:kk<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/kk"}
+        },
+         { "type" : "Feature",
+        "id" : KH,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["104.990963","12.565679"]},
+        "properties" : { "name" : "Khmer (kh)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:kh<br><br>"}
+        },
+         { "type" : "Feature",
+        "id" : KR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["127.766922","35.907757"]},
+        "properties" : { "name" : "Korean (ko)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ko<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ko"}
+        },
+         { "type" : "Feature",
+        "id" : IR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["47.1362125","35.9553579"]},
+        "properties" : { "name" : "Kurdish (ku)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ku"}
+        },
+         { "type" : "Feature",
+        "id" : LA,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["102.495496","19.85627"]},
+        "properties" : { "name" : "Laos (lo)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:lo"}
+        },
+         { "type" : "Feature",
+        "id" : LV,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["24.603189","56.879635"]},
+        "properties" : { "name" : "Latvian (lv)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:lv<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/lv"}
+        },
+         { "type" : "Feature",
+        "id" : LT,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["23.881275","55.169438"]},
+        "properties" : { "name" : "Lithuvanian (lt)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:lt<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/lt"}
+        },
+         { "type" : "Feature",
+        "id" : UG,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["32.290275","1.373333"]},
+        "properties" : { "name" : "Luganda (lg)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:lg<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/lg"}
+        },
+         { "type" : "Feature",
+        "id" : MK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["21.745275","41.608635"]},
+        "properties" : { "name" : "Macedonian (mk)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:mk<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/mk"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["79.0622105","29.8246216"]},
+        "properties" : { "name" : "Maithili (mai)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:mai<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/mai"}
+        },
+         { "type" : "Feature",
+        "id" : MY,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["101.975766","4.210484"]},
+        "properties" : { "name" : "Malay (ms)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ms"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["76.6412712","10.5143884"]},
+        "properties" : { "name" : "Malayalam (ml)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ml<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ml"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["72.8776559","19.0759837"]},
+        "properties" : { "name" : "Marathi (mr)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:mr<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/mr"}
+        },
+         { "type" : "Feature",
+        "id" : LS,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["28.233608","-29.609988"]},
+        "properties" : { "name" : "Northen Sotho (nso)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:nso<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/nso"}
+        },
+         { "type" : "Feature",
+        "id" : NO,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["8.468946","60.472024"]},
+        "properties" : { "name" : "Norwegian (nb-NO)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:nb-NO<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/nb-NO"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["10.37109375","62.70640286961363"]},
+        "properties" : { "name" : "Norwegian (nn-NO)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:nn-NO<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/nn-NO"}
+        },
+         { "type" : "Feature",
+        "id" : FR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["1.4394076","44.2653391"]},
+        "properties" : { "name" : "Occitan (Languedocian)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:oc<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/oc"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["85.0985236","20.9516658"]},
+        "properties" : { "name" : "Oriya (or)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:or<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/or"}
+        },
+         { "type" : "Feature",
+        "id" : IR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["53.688046","32.427908"]},
+        "properties" : { "name" : "Persian (fa)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:fa<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/fa"}
+        },
+         { "type" : "Feature",
+        "id" : PL,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["19.145136","51.919438"]},
+        "properties" : { "name" : "Polish (pl)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:pl<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/pl"}
+        },
+         { "type" : "Feature",
+        "id" : PT,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-8.224454","39.399872"]},
+        "properties" : { "name" : "Portuguese (pt-PT)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:pt-PT<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/pt-PT"}
+        },
+         { "type" : "Feature",
+        "id" : BR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-51.92528","-14.235004"]},
+        "properties" : { "name" : "Portuguese Brazilian (pt-BR)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:pt-BR<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/pt-BR"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["75.5761829","31.3260152"]},
+        "properties" : { "name" : "Punjabi (pa-IN)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:pa-IN<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/pa-IN"}
+        },
+         { "type" : "Feature",
+        "id" : RO,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["24.96676","45.943161"]},
+        "properties" : { "name" : "Romanian (ro)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ro<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ro<br>"}
+        },
+         { "type" : "Feature",
+        "id" : CH,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["8.227512","46.818188"]},
+        "properties" : { "name" : "Romansh (rm)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:rm<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/rm"}
+        },
+         { "type" : "Feature",
+        "id" : RU,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["105.318756","61.52401"]},
+        "properties" : { "name" : "Russian (ru)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ru<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ru<br>"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["21.005859","44.016521"]},
+        "properties" : { "name" : "Serbian (sr)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:sr<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/sr<br>"}
+        },
+         { "type" : "Feature",
+        "id" : LK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["80.771797","7.873054"]},
+        "properties" : { "name" : "Sinhala (si)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:si<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/si<br>"}
+        },
+         { "type" : "Feature",
+        "id" : SK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["19.699024","48.669026"]},
+        "properties" : { "name" : "Slovak (sk)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:sk<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/sk<br>"}
+        },
+         { "type" : "Feature",
+        "id" : SI,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["14.995463","46.151241"]},
+        "properties" : { "name" : "Slovenian (sl)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:sl<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/sl<br>"}
+        },
+         { "type" : "Feature",
+        "id" : NE,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["8.081666","17.607789"]},
+        "properties" : { "name" : "Songhai (son)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:son<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/son"}
+        },
+         { "type" : "Feature",
+        "id" : AR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-63.616672","-38.416097"]},
+        "properties" : { "name" : "Spanish (es-AR)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:es-AR<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/es-AR<br>"}
+        },
+         { "type" : "Feature",
+        "id" : CL,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-71.542969","-35.675147"]},
+        "properties" : { "name" : "Spanish (es-CL)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:es-CL<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/es-CL"}
+        },
+         { "type" : "Feature",
+        "id" : ES,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-3.74922","40.463667"]},
+        "properties" : { "name" : "Spanish (es-ES)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:es-ES<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/es-ES<br>"}
+        },
+         { "type" : "Feature",
+        "id" : MX,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-102.552784","23.634501"]},
+        "properties" : { "name" : "Spanish (es-MX)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:es-MX<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/es-MX"}
+        },
+         { "type" : "Feature",
+        "id" : SE,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["18.643501","60.128161"]},
+        "properties" : { "name" : "Swedish (sv-SE)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:sv-SE<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/sv-SE<br>"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["80.249583","13.060422"]},
+        "properties" : { "name" : "Tamil (ta)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ta<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ta"}
+        },
+         { "type" : "Feature",
+        "id" : LK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["80.006393","9.668333"]},
+        "properties" : { "name" : "Tamil (ta-LK)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ta-LK<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/ta-LK"}
+        },
+         { "type" : "Feature",
+        "id" : IN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["78.486671","17.385044"]},
+        "properties" : { "name" : "Telugu (te)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:te<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/te<br>"}
+        },
+         { "type" : "Feature",
+        "id" : TH,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["100.992541","15.870032"]},
+        "properties" : { "name" : "Thai (th)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:th<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/th<br>"}
+        },
+         { "type" : "Feature",
+        "id" : TR,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["35.243322","38.963745"]},
+        "properties" : { "name" : "Turkish (tr)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:tr<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/tr<br>"}
+        },
+         { "type" : "Feature",
+        "id" : UA,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["31.16558","48.379433"]},
+        "properties" : { "name" : "Ukrainian(uk)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:uk<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/uk<br>"}
+        },
+         { "type" : "Feature",
+        "id" : PK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["69.345116","30.375321"]},
+        "properties" : { "name" : "Urdu (ur)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:ur"}
+        },
+         { "type" : "Feature",
+        "id" : VN,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["108.277199","14.058324"]},
+        "properties" : { "name" : "Vietnamese (vi)", "value" : "Status: Product Release <br>L10n Team: https://wiki.mozilla.org/L10n:Teams:vi<br>Mailing-list: https://lists.mozilla.org/listinfo/dev-l10n-vi<br><br>Download:http://www.mozilla.org/en-US/firefox/all.html?lang-search=vietnamese<br>Dashboard http://l10n.mozilla-community.org/webdashboard/?locale=vi<br>Input: http://input.mozilla.com/vi<br>Addon: https://addons.mozilla.org/vi<br>Sumo: http://support.mozilla.com/vi/localization<br><a href="javascript:void(0);/*1322934265302*/">Goto</a><br>"}
+        },
+         { "type" : "Feature",
+        "id" : GB,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["-3.8303771","52.4699784"]},
+        "properties" : { "name" : "Welsh (cy)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:cy<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/cy<br>"}
+        },
+         { "type" : "Feature",
+        "id" : SZ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["31.465866","-26.522503"]},
+        "properties" : { "name" : "Zulu (zu)", "value" : "L10n Team Page:<br>https://wiki.mozilla.org/L10n:Teams:zu<br><br>Dashboard<br>https://l10n-stage-sj.mozilla.org/teams/zu"}
+        },
+         ]
+}
+    
