@@ -22,9 +22,9 @@ for row in data:
             pass
         if any(name for team in testing_teams if name.startswith(team)):
             print name
-            marker = "var markerll"+id+"=new L.LatLng("+lat+","+lon+");var marker"+id+"=new L.CircleMarker(markerll"+id+");map.addLayer(marker"+id+");marker"+id+".bindPopup(\"<b>"+name+"<br></b><a href=\'"+team_page+"\'>L10n Team Page<br><a href=\'"+dashboard+"\'>Dashboard\");"
+            marker = "var markerll"+id+"=new L.LatLng("+lat+","+lon+");var marker"+id+"=new L.Marker(markerll"+id+",{icon:betaIcon});map.addLayer(marker"+id+");marker"+id+".bindPopup(\"<b>"+name+"<br></b><a href=\'"+team_page+"\'>L10n Team Page<br><a href=\'"+dashboard+"\'>Dashboard\");"
         else:
-            marker = "var markerll"+id+"=new L.LatLng("+lat+","+lon+");var marker"+id+"=new L.Marker(markerll"+id+");map.addLayer(marker"+id+");marker"+id+".bindPopup(\"<b>"+name+"<br></b><a href=\'"+team_page+"\'>L10n Team Page<br><a href=\'"+dashboard+"\'>Dashboard\");"
+            marker = "var markerll"+id+"=new L.LatLng("+lat+","+lon+");var marker"+id+"=new L.Marker(markerll"+id+",{icon:firefoxIcon});map.addLayer(marker"+id+");marker"+id+".bindPopup(\"<b>"+name+"<br></b><a href=\'"+team_page+"\'>L10n Team Page<br><a href=\'"+dashboard+"\'>Dashboard\");"
         print marker
         marker_file.write(marker)
 
